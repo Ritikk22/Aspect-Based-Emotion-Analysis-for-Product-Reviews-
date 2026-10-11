@@ -1,0 +1,7 @@
+﻿Task,Model,Accuracy,Precision,Recall,F1 Score
+Sentiment,Logistic Regression,63.83,63.69,63.83,63.76
+Sentiment,Linear SVM,64.76,63.66,64.76,64.13
+Sentiment,Multinomial Naive Bayes,65.35,61.73,65.35,62.93
+Emotion,Logistic Regression,66.03,65.29,66.03,65.57
+Emotion,Linear SVM,66.62,64.93,66.62,65.54
+Emotion,Multinomial Naive Bayes,62.34,60.32,62.34,60.51

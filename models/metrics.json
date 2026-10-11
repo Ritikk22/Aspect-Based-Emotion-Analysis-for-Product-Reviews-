@@ -1,0 +1,7 @@
+{
+  "final_models": {
+    "sentiment": "Logistic Regression",
+    "emotion": "Logistic Regression"
+  },
+  "evaluation": "5-fold GroupKFold by sentence id"
+}
